@@ -36,7 +36,7 @@ El parser define el tipo de datos `JSON` con los siguientes constructores:
 
 El archivo `Main.hs` es un ejemplo de cómo utilizar el parser.
 
-La función `todosLosNombresDePokemones` EN `Main.hs` lee el archivo folder/pokemones.json, lo parsea y extrae la lista de nombres de los pokémones.
+La función `todosLosNombresDePokemones` en `Main.hs` lee el archivo `folder/pokemones.json`, lo parsea y extrae la lista de nombres de los pokémones.
 
 ## Parseo de Archivos JSON desde la Línea de Comandos
 
