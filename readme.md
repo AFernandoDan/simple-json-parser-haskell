@@ -2,6 +2,8 @@
 
 Este es un mini parser de JSON desarrollado como proyecto de prueba. Permite analizar y manipular estructuras JSON de manera sencilla.
 
+Parte del código fue visto en el curso de [Abordaje Funcional a EDSLs en el ECI 37 (2024)](https://eci.dc.uba.ar/cursos-eci/n1-abordaje-funcional-a-edsls/).
+
 ## Cómo utilizarlo
 
 Para utilizar este parser, sigue estos pasos:
