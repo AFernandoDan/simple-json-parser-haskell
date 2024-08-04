@@ -1,0 +1,24 @@
+{
+  "pokemones": [
+    {
+      "nombre": "Pikachu",
+      "tipo": "Eléctrico",
+      "habilidades": ["Impactrueno", "Bola Voltio"]
+    },
+    {
+      "nombre": "Charmander",
+      "tipo": "Fuego",
+      "habilidades": ["Llamarada", "Ascuas"]
+    },
+    {
+      "nombre": "Bulbasaur",
+      "tipo": "Planta",
+      "habilidades": ["Latigo Cepa", "Hoja Afilada"]
+    },
+    {
+      "nombre": "Squirtle",
+      "tipo": "Agua",
+      "habilidades": ["Pistola Agua", "Burbuja"]
+    }
+  ]
+}

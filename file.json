@@ -1,0 +1,14 @@
+{
+   "unBool":  true   , 
+        
+   "unaLista": [ 1 , 2 , 3 , 4 , { "hola"  : "chasdasdau" 
+   }   ] ,
+  
+   "unNumero" : 
+   1 ,
+   "unTexto"  : 
+                              "Texto" ,
+   "unObjeto" : 
+   { "prop1" :  "val1" , 
+   "proasdasdp2": [ [[[1]]]  ] }
+}

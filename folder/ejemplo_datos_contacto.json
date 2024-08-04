@@ -1,0 +1,17 @@
+{
+   "id": 1,
+   "nombre": "Juan",
+   "apellido": "Pérez",
+   "edad": 30,
+   "dirección": {
+     "calle": "Avenida Central",
+     "número": 1234,
+     "ciudad": "Ciudad de México",
+     "país": "México"
+   },
+   "contacto": {
+     "email": "juan.perez@example.com",
+     "teléfono": "+521234567890"
+   },
+   "intereses": ["fútbol", "música", "viajar"]
+ }
